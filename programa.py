@@ -14,4 +14,4 @@ ele:
     print("Opcion incorrecta")
 
 
-print("Adios")
+print("Bye")
