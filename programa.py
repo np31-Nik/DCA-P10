@@ -10,7 +10,7 @@ elif(i==2):
     print("Restando")
 elif(i==3):
     print("dividiendo")
-else:
+ele:
     print("Opcion incorrecta")
 
 
