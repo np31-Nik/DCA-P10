@@ -1,4 +1,4 @@
-print("Hola, elige una opcion:")
+print("Elige una opcion:")
 print("1. Sumar")
 print("2. Restar")
 print("3. dividir")
